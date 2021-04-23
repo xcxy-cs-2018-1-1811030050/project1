@@ -1,0 +1,55 @@
+User={
+
+​		"code" : "0",
+
+​		"ms" : "用户信息显示成功",
+
+​		"result" : [
+
+​				{
+
+​						"User-id" : "010013",
+
+​						"user-name" : "小小诸葛",
+
+​						"user-address" : "XX市XX区天府花园6栋602-3",
+
+​						"user-sex"： "男",
+
+​						"user-tel" : "!73-8526-9856",,
+
+​						"user-order from" : [
+
+​													{
+
+​															"order-id" : "557561256223",
+
+​															"order-create time" : "2018-03-16",
+
+​															"order-Status" : "已接单",
+
+​															"order-Issue" : [
+
+​																				{
+
+​																					"Issue-type" : "技术类",
+
+​																					"Issue-Statue" : "待处理......",
+
+​																					"Issue-description" : "电视指示灯亮着，但显示																														器没画面",
+
+​																	}
+
+​															]
+
+​															"order-price" : "120$",
+
+​								}	
+
+​						]
+
+​				}
+
+​		]
+
+}
